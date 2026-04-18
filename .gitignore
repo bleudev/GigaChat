@@ -1,0 +1,5 @@
+token.txt
+Authorization_key.txt
+__pycache__
+.pytest_cache
+.vscode
